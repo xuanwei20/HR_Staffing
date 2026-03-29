@@ -1,108 +1,105 @@
 id,job_title,job_title_cleaned,location_cleaned,role_level,bert_similarity,fitness_score,rank,is_starred
-3,Aspiring Human Resources Professional,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1.0,1,True
-33,Aspiring Human Resources Professional,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1.0,2,True
-17,Aspiring Human Resources Professional,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1.0,3,False
-21,Aspiring Human Resources Professional,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1.0,4,False
-58,Aspiring Human Resources Professional,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1.0,5,False
-97,Aspiring Human Resources Professional,aspir human resourc profession,"Kokomo, IN",mid,0.85062605,1.0,6,False
-46,Aspiring Human Resources Professional,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1.0,7,False
-74,Human Resources Professional,human resourc profession,"Boston, MA",mid,0.76266456,0.63791996,8,False
-66,Experienced Retail Manager and aspiring Human Resources Professional,experienc retail manag aspir human resourc profession,"Austin, TX",mid,0.79943055,0.56428987,9,False
-24,Aspiring Human Resources Specialist,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,10,False
-49,Aspiring Human Resources Specialist,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,11,False
-60,Aspiring Human Resources Specialist,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,12,False
-36,Aspiring Human Resources Specialist,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,13,False
-6,Aspiring Human Resources Specialist,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,14,False
-98,Student,student,"Houston, TX",intern,0.39449155,0.4884144,15,False
-27,Aspiring Human Resources Management student seeking an internship,aspir human resourc manag student seek internship,"Houston, TX",intern,0.76189226,0.4830499,16,False
-29,Aspiring Human Resources Management student seeking an internship,aspir human resourc manag student seek internship,"Houston, TX",intern,0.76189226,0.4830499,17,False
-75,"Nortia Staffing is seeking Human Resources, Payroll & Administrative Professionals!!  (408) 709-2621",nortia staf seek human resourc payrol administr profession,"San Jose, CA",mid,0.7060994,0.47536397,18,False
-39,Student at Humber College and Aspiring Human Resources Generalist,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,19,False
-25,Student at Humber College and Aspiring Human Resources Generalist,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,20,False
-37,Student at Humber College and Aspiring Human Resources Generalist,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,21,False
-7,Student at Humber College and Aspiring Human Resources Generalist,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,22,False
-50,Student at Humber College and Aspiring Human Resources Generalist,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,23,False
-9,Student at Humber College and Aspiring Human Resources Generalist,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,24,False
-52,Student at Humber College and Aspiring Human Resources Generalist,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,25,False
-73,"Aspiring Human Resources Manager, seeking internship in Human Resources.",aspir human resourc manag seek internship human resourc,"Houston, TX",mid,0.7842126,0.4684754,26,False
-67,"Human Resources, Staffing and Recruiting Professional",human resourc staf recruit profession,"Jackson, MS",mid,0.7185905,0.45546538,27,False
-103,Always set them up for Success,alway set success,"Los Angeles, CA",junior,0.49019694,0.4469391,28,False
-69,"Director of Human Resources North America, Groupe Beneteau",director human resourc north america group beneteau,"Grand Rapids, MI",executive,0.75637865,0.40839425,29,False
-79,Liberal Arts Major. Aspiring Human Resources Analyst.,liber art major aspir human resourc analyst,"Baton Rouge, LA",mid,0.8208533,0.37496156,30,False
-100,Aspiring Human Resources Manager | Graduating May 2020 | Seeking an Entry-Level Human Resources Position in St. Louis,aspir human resourc manag graduat may seek entri level human resourc posit st loui,"Cape Girardeau, MO",mid,0.74549234,0.37215012,31,False
-82,Aspiring Human Resources Professional | An energetic and Team-Focused Leader,aspir human resourc profession energet team focus leader,"Austin, TX",senior,0.8266382,0.36253667,32,False
-89,Director Human Resources  at EY,director human resourc ey,"Atlanta, GA",executive,0.7696576,0.34592777,33,False
-87,Bachelor of Science in Biology from Victoria University of Wellington,bachelor scienc biolog victoria univers wellington,"Baltimore, MD",executive,0.57401526,0.32736734,34,False
-15,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,35,False
-57,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,36,False
-19,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,37,False
-14,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,38,False
-1,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,39,False
-31,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,40,False
-44,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,41,False
-91,Lead Official at Western Illinois University,lead offici western illinoi univers,"Chicago, IL",senior,0.541538,0.31282052,42,False
-84,Human Resources professional for the world leader in GIS software,human resourc profession world leader gi softwar,"Highland, CA",senior,0.758899,0.31143197,43,False
-71,"Human Resources Generalist at ScottMadden, Inc.",human resourc generalist scottmadden inc,"Raleigh, NC",junior,0.7573035,0.30748168,44,False
-76,Aspiring Human Resources Professional | Passionate about helping to create an inclusive and engaging work environment,aspir human resourc profession passion help creat inclus engag work environ,"New York, NY",mid,0.7426485,0.30716917,45,False
-85,RRP Brand Portfolio Executive at JTI (Japan Tobacco International),rrp brand portfolio execut jti japan tobacco intern,"Philadelphia, PA",intern,0.6705807,0.3068847,46,False
-11,Student at Chapman University,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,47,False
-63,Student at Chapman University,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,48,False
-41,Student at Chapman University,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,49,False
-54,Student at Chapman University,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,50,False
-78,Human Resources Generalist at Schwan's,human resourc generalist schwan,United States,junior,0.7217762,0.28819683,51,False
-88,Human Resources Management Major,human resourc manag major,"Milpitas, CA",junior,0.81160736,0.28630975,52,False
-45,Native English Teacher at EPIK (English Program in Korea),nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,53,False
-16,Native English Teacher at EPIK (English Program in Korea),nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,54,False
-20,Native English Teacher at EPIK (English Program in Korea),nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,55,False
-32,Native English Teacher at EPIK (English Program in Korea),nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,56,False
-2,Native English Teacher at EPIK (English Program in Korea),nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,57,False
-30,Seeking Human Resources Opportunities,seek human resourc opportun,"Chicago, IL",junior,0.70538497,0.26602003,58,False
-28,Seeking Human Resources Opportunities,seek human resourc opportun,"Chicago, IL",junior,0.70538497,0.26602003,59,False
-92,Seeking employment opportunities within Customer Service or Patient Care,seek employ opportun within custom servic patient care,"Torrance, CA",junior,0.67500675,0.2621101,60,False
-23,Advisory Board Member at Celal Bayar University,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,61,False
-5,Advisory Board Member at Celal Bayar University,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,62,False
-48,Advisory Board Member at Celal Bayar University,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,63,False
-35,Advisory Board Member at Celal Bayar University,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,64,False
-72,Business Management Major and Aspiring Human Resources Manager,busi manag major aspir human resourc manag,"Monroe, LA",mid,0.79465,0.25414437,65,False
-93,Admissions Representative at Community medical center long beach,admiss repres commun medic center long beach,"Long Beach, CA",junior,0.69119763,0.24307641,66,False
-68,Human Resources Specialist at Luxottica,human resourc specialist luxottica,"New York, NY",mid,0.83770436,0.24186668,67,False
-90,Undergraduate Research Assistant at Styczynski Lab,undergradu research assist styczynski lab,"Atlanta, GA",junior,0.54296184,0.22999936,68,False
-18,People Development Coordinator at Ryan,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,69,False
-34,People Development Coordinator at Ryan,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,70,False
-4,People Development Coordinator at Ryan,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,71,False
-22,People Development Coordinator at Ryan,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,72,False
-47,People Development Coordinator at Ryan,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,73,False
-59,People Development Coordinator at Ryan,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,74,False
-99,Seeking Human Resources Position,seek human resourc posit,"Las Vegas, NV",junior,0.7978475,0.21984512,75,False
-81,Senior Human Resources Business Partner at Heil Environmental,senior human resourc busi partner heil environment,"Chattanooga, TN",senior,0.78536665,0.21188061,76,False
-80,Junior MES Engineer| Information Systems,junior me engin inform system,"Myrtle Beach, SC",junior,0.61769104,0.20479697,77,False
-65,Human Resources Coordinator at InterContinental Buckhead Atlanta,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,78,False
-13,Human Resources Coordinator at InterContinental Buckhead Atlanta,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,79,False
-43,Human Resources Coordinator at InterContinental Buckhead Atlanta,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,80,False
-56,Human Resources Coordinator at InterContinental Buckhead Atlanta,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,81,False
-95,Student at Westfield State University,student westfield state univers,"Bridgewater, MA",intern,0.4648878,0.19879618,82,False
-83,HR Manager at Endemol Shine North America,human resourc manag endemol shine north america,"Los Angeles, CA",mid,0.7803966,0.18770327,83,False
-102,Business Intelligence and Analytics at Travelers,busi intellig analyt travel,"New York, NY",junior,0.6037015,0.17964686,84,False
-104,Director Of Administration at Excellence Logging,director administr excel log,"Katy, TX",executive,0.62274194,0.17851898,85,False
-12,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,86,False
-42,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,87,False
-64,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,88,False
-55,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,89,False
-101,Human Resources Generalist at Loparex,human resourc generalist loparex,"Raleigh, NC",junior,0.7975513,0.16333349,90,False
-96,"Student at Indiana University Kokomo - Business Management - 
-Retail Manager at Delphi Hardware and Paint",student indiana univers kokomo busi manag retail manag delphi hardwar paint,"Lafayette, IN",mid,0.55894035,0.11919649,91,False
-51,HR Senior Specialist,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,92,False
-8,HR Senior Specialist,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,93,False
-61,HR Senior Specialist,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,94,False
-26,HR Senior Specialist,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,95,False
-38,HR Senior Specialist,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,96,False
-70,"Retired Army National Guard Recruiter, office manager,  seeking a position in Human Resources.",retir armi nation guard recruit offic manag seek posit human resourc,"Virginia Beach, VA",mid,0.66111857,0.085328184,97,False
-77,"Human Resources|
-Conflict Management|
-Policies & Procedures|Talent Management|Benefits & Compensation",human resourc conflict manag polici procedur talent manag benefit compens,"Dallas, TX",junior,0.67524654,0.0801749,98,False
-94,Seeking Human  Resources Opportunities. Open to travel and relocation.,seek human resourc opportun open travel reloc,United States,junior,0.70675325,0.07383129,99,False
-10,Seeking Human Resources HRIS and Generalist Positions,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,100,False
-40,Seeking Human Resources HRIS and Generalist Positions,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,101,False
-53,Seeking Human Resources HRIS and Generalist Positions,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,102,False
-62,Seeking Human Resources HRIS and Generalist Positions,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,103,False
-86,Information Systems Specialist and Programmer with a love for data and organization.,inform system specialist programm love data organ,"Gaithersburg, MD",mid,0.6224495,0.0,104,False
+,,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1,1,TRUE
+,,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1,2,TRUE
+,,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1,3,FALSE
+,,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1,4,FALSE
+,,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1,5,FALSE
+,,aspir human resourc profession,"Kokomo, IN",mid,0.85062605,1,6,FALSE
+,,aspir human resourc profession,"Raleigh, NC",mid,0.85062605,1,7,FALSE
+,,human resourc profession,"Boston, MA",mid,0.76266456,0.63791996,8,FALSE
+,,experienc retail manag aspir human resourc profession,"Austin, TX",mid,0.79943055,0.56428987,9,FALSE
+,,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,10,FALSE
+,,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,11,FALSE
+,,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,12,FALSE
+,,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,13,FALSE
+,,aspir human resourc specialist,"New York, NY",mid,0.9397048,0.51327,14,FALSE
+,,student,"Houston, TX",intern,0.39449155,0.4884144,15,FALSE
+,,aspir human resourc manag student seek internship,"Houston, TX",intern,0.76189226,0.4830499,16,FALSE
+,,aspir human resourc manag student seek internship,"Houston, TX",intern,0.76189226,0.4830499,17,FALSE
+,,nortia staf seek human resourc payrol administr profession,"San Jose, CA",mid,0.7060994,0.47536397,18,FALSE
+,,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,19,FALSE
+,,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,20,FALSE
+,,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,21,FALSE
+,,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,22,FALSE
+,,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,23,FALSE
+,,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,24,FALSE
+,,student humber colleg aspir human resourc generalist,Canada,intern,0.72907543,0.4743623,25,FALSE
+,,aspir human resourc manag seek internship human resourc,"Houston, TX",mid,0.7842126,0.4684754,26,FALSE
+,,human resourc staf recruit profession,"Jackson, MS",mid,0.7185905,0.45546538,27,FALSE
+,,alway set success,"Los Angeles, CA",junior,0.49019694,0.4469391,28,FALSE
+,,director human resourc north america group beneteau,"Grand Rapids, MI",executive,0.75637865,0.40839425,29,FALSE
+,,liber art major aspir human resourc analyst,"Baton Rouge, LA",mid,0.8208533,0.37496156,30,FALSE
+,,aspir human resourc manag graduat may seek entri level human resourc posit st loui,"Cape Girardeau, MO",mid,0.74549234,0.37215012,31,FALSE
+,,aspir human resourc profession energet team focus leader,"Austin, TX",senior,0.8266382,0.36253667,32,FALSE
+,,director human resourc ey,"Atlanta, GA",executive,0.7696576,0.34592777,33,FALSE
+,,bachelor scienc biolog victoria univers wellington,"Baltimore, MD",executive,0.57401526,0.32736734,34,FALSE
+,,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,35,FALSE
+,,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,36,FALSE
+,,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,37,FALSE
+,,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,38,FALSE
+,,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,39,FALSE
+,,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,40,FALSE
+,,bauer colleg busi graduat magna cum laud aspir human resourc profession,"Houston, Texas",mid,0.59503645,0.31373104,41,FALSE
+,,lead offici western illinoi univers,"Chicago, IL",senior,0.541538,0.31282052,42,FALSE
+,,human resourc profession world leader gi softwar,"Highland, CA",senior,0.758899,0.31143197,43,FALSE
+,,human resourc generalist scottmadden inc,"Raleigh, NC",junior,0.7573035,0.30748168,44,FALSE
+,,aspir human resourc profession passion help creat inclus engag work environ,"New York, NY",mid,0.7426485,0.30716917,45,FALSE
+,,rrp brand portfolio execut jti japan tobacco intern,"Philadelphia, PA",intern,0.6705807,0.3068847,46,FALSE
+,,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,47,FALSE
+,,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,48,FALSE
+,,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,49,FALSE
+,,student chapman univers,"Lake Forest, CA",intern,0.4469733,0.29774648,50,FALSE
+,,human resourc generalist schwan,United States,junior,0.7217762,0.28819683,51,FALSE
+,,human resourc manag major,"Milpitas, CA",junior,0.81160736,0.28630975,52,FALSE
+,,nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,53,FALSE
+,,nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,54,FALSE
+,,nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,55,FALSE
+,,nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,56,FALSE
+,,nativ english teacher epik english program korea,Canada,junior,0.5543839,0.2767044,57,FALSE
+,,seek human resourc opportun,"Chicago, IL",junior,0.70538497,0.26602003,58,FALSE
+,,seek human resourc opportun,"Chicago, IL",junior,0.70538497,0.26602003,59,FALSE
+,,seek employ opportun within custom servic patient care,"Torrance, CA",junior,0.67500675,0.2621101,60,FALSE
+,,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,61,FALSE
+,,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,62,FALSE
+,,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,63,FALSE
+,,advisori board member celal bayar univers,"İzmir, Türkiye",mid,0.5685573,0.25987595,64,FALSE
+,,busi manag major aspir human resourc manag,"Monroe, LA",mid,0.79465,0.25414437,65,FALSE
+,,admiss repres commun medic center long beach,"Long Beach, CA",junior,0.69119763,0.24307641,66,FALSE
+,,human resourc specialist luxottica,"New York, NY",mid,0.83770436,0.24186668,67,FALSE
+,,undergradu research assist styczynski lab,"Atlanta, GA",junior,0.54296184,0.22999936,68,FALSE
+,,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,69,FALSE
+,,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,70,FALSE
+,,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,71,FALSE
+,,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,72,FALSE
+,,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,73,FALSE
+,,peopl develop coordin ryan,"Denton, TX",mid,0.68716794,0.2233553,74,FALSE
+,,seek human resourc posit,"Las Vegas, NV",junior,0.7978475,0.21984512,75,FALSE
+,,senior human resourc busi partner heil environment,"Chattanooga, TN",senior,0.78536665,0.21188061,76,FALSE
+,,junior me engin inform system,"Myrtle Beach, SC",junior,0.61769104,0.20479697,77,FALSE
+,,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,78,FALSE
+,,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,79,FALSE
+,,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,80,FALSE
+,,human resourc coordin intercontinent buckhead atlanta,"Atlanta, GA",mid,0.79502165,0.20104572,81,FALSE
+,,student westfield state univers,"Bridgewater, MA",intern,0.4648878,0.19879618,82,FALSE
+,,human resourc manag endemol shine north america,"Los Angeles, CA",mid,0.7803966,0.18770327,83,FALSE
+,,busi intellig analyt travel,"New York, NY",junior,0.6037015,0.17964686,84,FALSE
+,,director administr excel log,"Katy, TX",executive,0.62274194,0.17851898,85,FALSE
+,,senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,86,FALSE
+,,senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,87,FALSE
+,,senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,88,FALSE
+,,senior vice presid chief human resourc offic market commun csr offic engi houston woodland energi gphr sphr,"Houston, TX",executive,0.7468645,0.16956273,89,FALSE
+,,human resourc generalist loparex,"Raleigh, NC",junior,0.7975513,0.16333349,90,FALSE
+,,student indiana univers kokomo busi manag retail manag delphi hardwar paint,"Lafayette, IN",mid,0.55894035,0.11919649,91,FALSE
+,,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,92,FALSE
+,,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,93,FALSE
+,,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,94,FALSE
+,,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,95,FALSE
+,,human resourc senior specialist,"San Francisco, CA",senior,0.78396237,0.10873441,96,FALSE
+,,retir armi nation guard recruit offic manag seek posit human resourc,"Virginia Beach, VA",mid,0.66111857,0.085328184,97,FALSE
+,,human resourc conflict manag polici procedur talent manag benefit compens,"Dallas, TX",junior,0.67524654,0.0801749,98,FALSE
+,,seek human resourc opportun open travel reloc,United States,junior,0.70675325,0.07383129,99,FALSE
+,,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,100,FALSE
+,,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,101,FALSE
+,,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,102,FALSE
+,,seek human resourc human resourc inform system generalist posit,"Philadelphia, PA",junior,0.7520538,0.038316336,103,FALSE
+,,inform system specialist programm love data organ,"Gaithersburg, MD",mid,0.6224495,0,104,FALSE
